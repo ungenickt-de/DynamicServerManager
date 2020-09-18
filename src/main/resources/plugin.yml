@@ -1,0 +1,4 @@
+name: DynamicServerManager
+main: com.playerrealms.bungee.ServerManager
+version: 1.0
+author: bowser123467
